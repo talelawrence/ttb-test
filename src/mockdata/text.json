@@ -1,0 +1,14 @@
+{
+    "type": "text",
+    "title": "คำแนะนำอื่นๆ",
+    "settings": [
+        {
+            "key": "max_length",
+            "value": "100"
+        },
+        {
+            "key": "require",
+            "value": "false"
+        }
+    ]
+} 
